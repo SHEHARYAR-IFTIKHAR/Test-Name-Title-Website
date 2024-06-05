@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    background-color: #000;
+}
+
+h1{
+    color: #fff;
+}
+span{
+    color: yellow;
+    margin: 0px 5px;
+}
